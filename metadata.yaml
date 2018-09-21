@@ -1,0 +1,43 @@
+_repo: Journal-de-Eugene-Delacroix-Tome-2-de-3-1850-1854_54421
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Delacroix, Eugène
+    aliases:
+    - Delacroix, Ferdinand Victor Eugène
+    - Delacroix, Eugene
+    birthdate: 1798
+    deathdate: 1863
+    gutenberg_agent_id: '47658'
+    url: http://www.gutenberg.org/2009/agents/47658
+  editors:
+  - agent_name: Flat, Paul
+    birthdate: 1865
+    deathdate: 1918
+    gutenberg_agent_id: '34238'
+    url: http://www.gutenberg.org/2009/agents/34238
+  - agent_name: Piot, René
+    alias: Piot, Rene
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '49653'
+    url: http://www.gutenberg.org/2009/agents/49653
+description: ''
+gutenberg_bookshelf:
+- FR Biographie, Mémoires, Journal intime, Correspondance
+- FR Peinture
+gutenberg_issued: '2017-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54421'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Delacroix, Eugène, 1798-1863 -- Diaries'
+- !lcc 'ND'
+- !lcsh 'Painters -- France -- Diaries'
+- GITenberg
+title: "Journal de Eugène Delacroix, Tome 2 (de 3)\r\n1850-1854"
+url: http://www.gutenberg.org/ebooks/54421
